@@ -1,0 +1,12 @@
+K:\VS2019工程\C#\debug生成\debug.exe生成\bin\Release\debug.exe生成.exe.config
+K:\VS2019工程\C#\debug生成\debug.exe生成\bin\Release\debug.exe生成.exe
+K:\VS2019工程\C#\debug生成\debug.exe生成\bin\Release\debug.exe生成.pdb
+K:\VS2019工程\C#\debug生成\debug.exe生成\obj\Release\debug.exe生成.csproj.CoreCompileInputs.cache
+K:\VS2019工程\C#\debug生成\debug.exe生成\obj\Release\debug.exe生成.exe
+K:\VS2019工程\C#\debug生成\debug.exe生成\obj\Release\debug.exe生成.pdb
+K:\VisualStudio工程\C#\debug生成\debug.exe生成\obj\Release\debug.exe生成.csproj.CoreCompileInputs.cache
+K:\VisualStudio工程\C#\debug生成\debug.exe生成\bin\Release\debug生成.exe.config
+K:\VisualStudio工程\C#\debug生成\debug.exe生成\bin\Release\debug生成.exe
+K:\VisualStudio工程\C#\debug生成\debug.exe生成\bin\Release\debug生成.pdb
+K:\VisualStudio工程\C#\debug生成\debug.exe生成\obj\Release\debug生成.exe
+K:\VisualStudio工程\C#\debug生成\debug.exe生成\obj\Release\debug生成.pdb

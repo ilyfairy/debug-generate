@@ -1,0 +1,6 @@
+K:\VS2019工程\C#\debug生成\debug.exe生成\bin\Debug\debug.exe生成.exe.config
+K:\VS2019工程\C#\debug生成\debug.exe生成\bin\Debug\debug.exe生成.exe
+K:\VS2019工程\C#\debug生成\debug.exe生成\bin\Debug\debug.exe生成.pdb
+K:\VS2019工程\C#\debug生成\debug.exe生成\obj\Debug\debug.exe生成.csproj.CoreCompileInputs.cache
+K:\VS2019工程\C#\debug生成\debug.exe生成\obj\Debug\debug.exe生成.exe
+K:\VS2019工程\C#\debug生成\debug.exe生成\obj\Debug\debug.exe生成.pdb
